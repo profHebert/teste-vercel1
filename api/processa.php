@@ -1,4 +1,6 @@
 <?php
+
+print_r($_SERVER);
 // api/processa.php
 
 // 1. Verifica se a requisição veio mesmo via POST para evitar acessos diretos vazios
